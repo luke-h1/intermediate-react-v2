@@ -8,8 +8,8 @@
     "@reach/router": "^1.2.1",
     "@testing-library/react": "^11.0.4",
     "parcel": "^1.12.4",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "uninstall": "0.0.0"
   },
   "devDependencies": {
