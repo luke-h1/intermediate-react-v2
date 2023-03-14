@@ -4,7 +4,7 @@
   "description": "the Complete Intro to React, v5",
   "main": "src/App.js",
   "dependencies": {
-    "@babel/node": "^7.10.5",
+    "@babel/node": "^7.20.7",
     "@frontendmasters/pet": "^1.0.3",
     "@reach/router": "^1.2.1",
     "babel-cli": "^6.26.0",
